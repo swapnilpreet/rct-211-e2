@@ -1,0 +1,18 @@
+.div{
+    display: flex;
+}
+.div2{
+    width: 100%;
+    display: grid;
+    gap: 8px;
+    grid-template-columns: repeat(auto-fit,minmax(310px,max-content));
+    justify-content: center;
+}
+.key{
+    width: 280px;
+
+}
+.link1{
+    text-decoration: none;
+    color: black;
+}

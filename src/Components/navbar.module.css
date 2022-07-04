@@ -1,0 +1,26 @@
+.div1{
+    padding: 0.5rem 1rem;
+    display: flex;
+}
+.div2{
+    flex: 1;
+}
+.img1{
+   width: 60px;
+   display: block;
+}
+.btn1{
+    border: none;
+    outline: none;
+    background-color: black;
+    color: aliceblue;
+    padding: 7px 9px;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-right: 1.5rem;
+
+}
+.link1{
+    color: aliceblue;
+    text-decoration: none;
+}

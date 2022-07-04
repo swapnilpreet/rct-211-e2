@@ -1,0 +1,17 @@
+.div1{
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-left: 1rem;
+    width: 290px;
+}
+.h1{
+    text-align: center;
+}
+.div2{
+   font-size: 18px;
+   padding: 0 0 5px 5px;
+}
+.div3{
+   padding-left: 15px;
+   
+}

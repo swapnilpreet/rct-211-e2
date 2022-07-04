@@ -1,0 +1,26 @@
+.h2{
+    text-align: center;
+}
+.form{
+    text-align: center;
+    font-size: 24px;
+}
+.input{
+    font-size: 15px;
+}
+.div1{
+    margin-top:1rem;
+}
+.btn1{
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+    border: none;
+    outline: none;
+    padding:8px 8px;
+    margin-top:1rem;
+    width: 190px;
+    border-radius: 2px;
+    cursor: pointer;
+    font-size: 15px;
+}
